@@ -9,7 +9,7 @@ The Merge is the most significant upgrade in the history of Ethereum. Extensive 
 *Key points:*
 
 - The existing Ethereum Mainnet and the Beacon Chain proof-of-stake network will soon converge.
-- This will complete Ethereum's shift to proof-of-stake and signal the end of proof-of-work.
+- This will complete Ethereum's shift to proof-of-stake and signal the end of proof-of-work. 
 - This paves the way for later scaling improvements like sharding. Ethereum's energy use will be reduced by 99.95% as a result of the Merge.
 
 # What is The Merge?
