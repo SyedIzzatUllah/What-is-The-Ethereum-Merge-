@@ -6,7 +6,7 @@ The Ethereum Merge is a network update to transition Ethereum from Proof-of-Work
 
 The Merge is the most significant upgrade in the history of Ethereum. Extensive testing and bug bounties were undertaken to ensure a safe transition to proof-of-stake. So what exactly is The Merge? The Merge is the union of Ethereum's new proof-of-stake (PoS) consensus layer, the Beacon Chain, with its current execution layer (the Mainnet that we now use).
 
-*Key points:*
+*Key points:* 
 
 - The existing Ethereum Mainnet and the Beacon Chain proof-of-stake network will soon converge.
 - This will complete Ethereum's shift to proof-of-stake and signal the end of proof-of-work. 
