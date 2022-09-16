@@ -1,5 +1,5 @@
 # What-is-The-Ethereum-Merge-
-Learn all you need to know about the ETH merge. 
+Learn all you need to know about the ETH merge in detail. 
 
 # What is The Ethereum Merge?
 The Ethereum Merge is a network update to transition Ethereum from Proof-of-Work (PoW) to Proof-of-Stake (PoS) consensus mechanism. There is an expected 99% reduction in energy costs associated with processing Ethereum transactions.
