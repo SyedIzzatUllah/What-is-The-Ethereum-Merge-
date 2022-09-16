@@ -27,7 +27,7 @@ Instead, it has agreed on active validators and their account balances in order 
 # Getting Ready:
 The Merge is one of the biggest and most anticipated upgrades in Ethereum history, and while everyone will eventually feel the effects of it, some people will need to take immediate steps to be fully ready.
 
-# Hodlers and Users:
+# Hodlers and Users: 
 To keep your money safe as it enters The Merge, there is nothing you need to do. You do not need to take any action with your money or wallet prior to The Merge if you are an Ethereum user or holder of ETH or any other digital asset on Ethereum, including a non-node-operating stake.
 
 After switching to proof-of-stake, Ethereum's complete history going back to its creation is still preserved and unchanged. After The Merge, you will still be able to access any money that was in your wallet prior to The Merge. You don't need to do anything. You should be extremely vigilant for scammers attempting to take advantage of people during this transition as The Merge of Ethereum Mainnet draws closer. Never give ETH to anyone or anywhere in an effort to "upgrade to ETH2." There is no such thing as an "ETH2" token, and you are done.
