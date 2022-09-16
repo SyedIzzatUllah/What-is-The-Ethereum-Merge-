@@ -18,7 +18,7 @@ Instead of using energy-intensive mining, it uses staked ETH to safeguard the ne
 
 It's vital to keep in mind that the Beacon Chain first shipped apart from Mainnet. Even while the Beacon Chain uses PoS, the Ethereum Mainnet, together with all of its accounts, balances, smart contracts, and blockchain data, is still protected by PoW. When these two systems eventually converge at the next Merge, proof-of-stake will completely replace proof-of-work.
 
-# Merging with Mainnet:
+# Merging with Mainnet: 
 
 Mainnet has been protected by PoW since its inception. It holds each transaction, smart contract, and balance since Ethereum's launch in July 2015. This is the Ethereum blockchain that we are all familiar with. Since the beginning of Ethereum, programmers have been working diligently to get the platform ready for a potential switch from PoW to PoS. The Beacon Chain was established on December 1, 2020, and it has since functioned alongside Mainnet as a separate blockchain. Transactions on the Mainnet have not been handled by the Beacon Chain.
 
